@@ -1,4 +1,4 @@
-# Learning `data.table` Package for Finance
+# Learning `data.table` Package for Finance (Introductory)
 **Author**: Neeraj Jain
 
 **email**: neeraj2409@outlook.com
