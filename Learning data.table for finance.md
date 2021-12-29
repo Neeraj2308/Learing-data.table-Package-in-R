@@ -1,12 +1,9 @@
----
-"Learning `data.table` Package for Finance"
-author: "Neeraj Jain"
-email: neeraj2409@outlook.com
-output:
-  pdf_document: default
-  html_document:
-    df_print: paged
----
+# Learning `data.table` Package for Finance
+**Author**: Neeraj Jain
+
+**email**: neeraj2409@outlook.com
+
+------------
 
 #### 1. Loading R Libraries
 ```{r echo=TRUE}
@@ -66,9 +63,8 @@ price <- price[!is.na(returns.d)]
 
 
 
-#######################
+
 # Group Operations
-######################
 
 **Easy to performs operations group wise in `data.table` package**
 
